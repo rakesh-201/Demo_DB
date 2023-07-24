@@ -1,0 +1,11 @@
+
+section {
+    display: flex;
+    flex-direction: row;
+}
+
+img {
+    max-width: 60%;
+    min-width: 40%;
+}
+
